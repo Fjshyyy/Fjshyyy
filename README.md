@@ -1,2 +1,1 @@
-- Hi, I’m @Fjshyyy
-- Im just a Student from Switzerland that is getting into Coding :) 
+wuh
